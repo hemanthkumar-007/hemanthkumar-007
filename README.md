@@ -26,7 +26,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <!-- REPLACE: Replace YOUR_PORTFOLIO_URL with your live portfolio website -->
-    <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+    <a href="https://portfolio2-chi-dusky.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-7928CA?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:balasubramanyam884@gmail.com">
