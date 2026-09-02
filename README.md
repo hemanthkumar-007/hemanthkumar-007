@@ -105,6 +105,64 @@
 
 ---
 
+### 📂 Featured Repositories & Architecture Showcase
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr border="0">
+      <td width="50%" border="0" align="center">
+        <a href="https://github.com/hemanthkumar-007/shopnest2">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=hemanthkumar-007&repo=shopnest2&theme=radical&hide_border=true&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&bg_color=0B0F19" alt="Shopnest2 Repo" width="100%" />
+        </a>
+      </td>
+      <td width="50%" border="0" align="center">
+        <a href="https://github.com/hemanthkumar-007/hemanthkumar-007">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=hemanthkumar-007&repo=hemanthkumar-007&theme=radical&hide_border=true&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&bg_color=0B0F19" alt="Profile Portfolio Repo" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <table>
+    <thead>
+      <tr>
+        <th><b>Repository</b></th>
+        <th><b>Type</b></th>
+        <th><b>Tech Stack</b></th>
+        <th><b>Status</b></th>
+        <th><b>Action</b></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b><a href="https://github.com/hemanthkumar-007/shopnest2">🛒 shopnest2</a></b></td>
+        <td><code>E-Commerce Platform</code></td>
+        <td><code>JavaScript</code> <code>HTML5</code> <code>CSS3</code></td>
+        <td><img src="https://img.shields.io/badge/Active-00D4FF?style=flat-square" alt="Active" /></td>
+        <td><a href="https://github.com/hemanthkumar-007/shopnest2"><code>Explore Code ↗</code></a></td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/hemanthkumar-007/hemanthkumar-007">⚡ hemanthkumar-007</a></b></td>
+        <td><code>Developer Portfolio OS</code></td>
+        <td><code>Markdown</code> <code>CSS</code> <code>SVG</code></td>
+        <td><img src="https://img.shields.io/badge/Live-7928CA?style=flat-square" alt="Live" /></td>
+        <td><a href="https://github.com/hemanthkumar-007/hemanthkumar-007"><code>View Source ↗</code></a></td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/hemanthkumar-007">🤖 Cartoonify-ML</a></b></td>
+        <td><code>AI / Computer Vision</code></td>
+        <td><code>Python</code> <code>OpenCV</code> <code>PyTorch</code> <code>GANs</code></td>
+        <td><img src="https://img.shields.io/badge/Featured-FF6F00?style=flat-square" alt="Featured" /></td>
+        <td><a href="https://github.com/hemanthkumar-007"><code>View Details ↗</code></a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
