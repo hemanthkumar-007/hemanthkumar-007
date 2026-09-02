@@ -45,6 +45,27 @@
 
 ### ⚡ Cyber Terminal Status
 
+<div align="center">
+
+```text
+╭────────────────────────────────────────────╮
+│  HEMANTH KUMAR // DEVELOPER OS             │
+│                                            │
+│  FULL STACK + AI/ML                        │
+│                                            │
+│  [ SYSTEM ONLINE ]                         │
+│                                            │
+│  Python      ████████████████░░            │
+│  React       ██████████████░░░░            │
+│  Django      ███████████████░░░            │
+│  AI/ML       ████████████████░░            │
+│                                            │
+│  > BUILDING THE FUTURE...                  │
+╰────────────────────────────────────────────╯
+```
+
+</div>
+
 ```bash
 ┌──(hemanth㉿github)-[~/projects]
 └─$ python developer.py
