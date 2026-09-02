@@ -22,7 +22,7 @@
   <!-- QUICK SOCIAL NAV (Replace placeholders with your real URLs) -->
   <p align="center">
     <!-- REPLACE: Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn username -->
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://linkedin.com/in/Hemanthkumar2005" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <!-- REPLACE: Replace YOUR_PORTFOLIO_URL with your live portfolio website -->
@@ -320,12 +320,12 @@
   <p>Looking to collaborate on exciting AI/ML initiatives or Full Stack web applications? Reach out!</p>
 
   <!-- REPLACE: Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn username handle -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/Hemanthkumar2005" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <!-- REPLACE: Replace YOUR_PORTFOLIO_URL with your website link -->
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://portfolio2-chi-dusky.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7928CA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
