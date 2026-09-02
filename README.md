@@ -37,7 +37,7 @@
     </a>
   </p>
 
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/blog-data/giphy.gif" width="60%" alt="Cyberpunk Developer Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="65%" alt="Cyberpunk Developer Animation" />
 
 </div>
 
@@ -256,43 +256,31 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hemanthkumar-007&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" />
-</div>
-
----
-
 ### 📊 Cyberpunk Analytics Dashboard
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr border="0">
       <td width="50%" border="0" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=hemanthkumar-007&show_icons=true&theme=radical&hide_border=true&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&bg_color=0B0F19" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hemanthkumar-007&show_icons=true&theme=radical&hide_border=true&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&bg_color=0B0F19" alt="GitHub Stats" width="100%" />
       </td>
       <td width="50%" border="0" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumar-007&layout=compact&theme=radical&hide_border=true&title_color=00D4FF&text_color=FFFFFF&bg_color=0B0F19" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hemanthkumar-007&layout=compact&theme=radical&hide_border=true&title_color=00D4FF&text_color=FFFFFF&bg_color=0B0F19" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
 
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkumar-007&theme=radical&hide_border=true&stroke=00D4FF&background=0B0F19&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=hemanthkumar-007&theme=radical&hide_border=true&stroke=00D4FF&background=0B0F19&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" width="100%" />
 </div>
 
 ---
 
-### 🐍 My Contribution Journey
+### 📈 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hemanthkumar-007/hemanthkumar-007/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hemanthkumar-007/hemanthkumar-007/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/hemanthkumar-007/hemanthkumar-007/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <img src="https://ghchart.rshah.org/00D4FF/hemanthkumar-007" alt="Hemanth's Contribution Graph" width="100%" />
 </div>
 
 ---
