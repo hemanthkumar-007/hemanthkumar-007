@@ -309,7 +309,7 @@
 
   <br /><br />
 
-  <img src="https://ghchart.rshah.org/00D4FF/hemanthkumar-007" alt="Hemanth's Contribution Graph" width="100%" />
+
 </div>
 
 ---
