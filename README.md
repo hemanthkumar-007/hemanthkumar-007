@@ -41,44 +41,7 @@
 
 </div>
 
----
 
-### ⚡ Cyber Terminal Status
-
-<div align="center">
-
-```text
-╭────────────────────────────────────────────╮
-│  HEMANTH KUMAR // DEVELOPER OS             │
-│                                            │
-│  FULL STACK + AI/ML                        │
-│                                            │
-│  [ SYSTEM ONLINE ]                         │
-│                                            │
-│  Python      ████████████████░░            │
-│  React       ██████████████░░░░            │
-│  Django      ███████████████░░░            │
-│  AI/ML       ████████████████░░            │
-│                                            │
-│  > BUILDING THE FUTURE...                  │
-╰────────────────────────────────────────────╯
-```
-
-</div>
-
-```bash
-┌──(hemanth㉿github)-[~/projects]
-└─$ python developer.py
-
-[+] Initializing developer profile...
-[✓] Core Identity   : B Hemanth Kumar
-[✓] Academic Base   : B.Tech (AI & ML) @ Siddharth Institute of Engineering & Technology
-[✓] Primary Arsenal : Python | React.js | Django | REST APIs | MySQL
-[✓] Advanced Focus  : Machine Learning | Deep Learning | Computer Vision
-[✓] Status          : ONLINE & READY TO BUILD 🚀
-```
-
----
 
 ### 🧬 About Me
 
